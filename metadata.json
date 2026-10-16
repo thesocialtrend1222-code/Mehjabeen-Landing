@@ -1,0 +1,8 @@
+{
+  "name": "Viral Video Landing Page",
+  "description": "Premium dark and red responsive video landing page with native ad integration, bilingual instructions, and configurable video showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
